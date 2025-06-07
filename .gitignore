@@ -1,0 +1,59 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+xcuserdata/
+DerivedData/
+*.xcassets/
+*.playground/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+.bundle/
+
+# Carthage
+Carthage/
+
+# fastlane
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.tox/
+.mypy_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+pip-log.txt
+pip-delete-this-arg.txt
+.project
+.settings
+.metadata
+.idea/
+
+# Editor
+.vscode/
+
+# Other
+.env
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.tool-versions 
